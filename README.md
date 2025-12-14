@@ -4,7 +4,9 @@
 Not all lines of code are created equal. 
 
 
-SemantiCovuses LLMs to analyze your Python code semantically, categorizing it into importance-weighted blocks and giving you coverage metrics that actually reflect risk.
+SemantiCov uses LLMs(via API or locally) to analyze your Python code semantically.
+
+This way, categorizes the codeit into importance-weighted blocks and gives  you coverage metrics that actually reflect risk.
 
 ## Why SemantiCov?
 
