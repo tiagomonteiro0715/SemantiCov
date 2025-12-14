@@ -1,0 +1,307 @@
+{
+  "summary": {
+    "total_functions": 10,
+    "total_lines": 65,
+    "covered_lines": 21,
+    "statement_coverage": 32.30769230769231,
+    "semantic_coverage": 24.412842059900882
+  },
+  "functions": [
+    {
+      "name": "__init__",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 100.0,
+      "semantic_coverage": 100.0,
+      "blocks": [
+        {
+          "type": "configuration_environment",
+          "weight": 3,
+          "total_lines": 1,
+          "covered_lines": 1,
+          "coverage_pct": 100.0,
+          "semantic_score": 3.0
+        }
+      ]
+    },
+    {
+      "name": "display_board",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 0.0,
+      "semantic_coverage": 0.0,
+      "blocks": [
+        {
+          "type": "output_consistency",
+          "weight": 4,
+          "total_lines": 5,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "clear_board",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 0.0,
+      "semantic_coverage": 0.0,
+      "blocks": [
+        {
+          "type": "boundary_conditions",
+          "weight": 8,
+          "total_lines": 2,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "place_marker",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 100.0,
+      "semantic_coverage": 100.0,
+      "blocks": [
+        {
+          "type": "core_functionality",
+          "weight": 10,
+          "total_lines": 1,
+          "covered_lines": 1,
+          "coverage_pct": 100.0,
+          "semantic_score": 10.0
+        },
+        {
+          "type": "error_handling",
+          "weight": 9,
+          "total_lines": 1,
+          "covered_lines": 1,
+          "coverage_pct": 100.0,
+          "semantic_score": 9.0
+        }
+      ]
+    },
+    {
+      "name": "winner",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 100.0,
+      "semantic_coverage": 100.0,
+      "blocks": [
+        {
+          "type": "output_consistency",
+          "weight": 4,
+          "total_lines": 1,
+          "covered_lines": 1,
+          "coverage_pct": 100.0,
+          "semantic_score": 4.0
+        }
+      ]
+    },
+    {
+      "name": "game_result",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 62.96296296296296,
+      "semantic_coverage": 25.225885225885225,
+      "blocks": [
+        {
+          "type": "core_functionality",
+          "weight": 10,
+          "total_lines": 14,
+          "covered_lines": 9,
+          "coverage_pct": 64.28571428571429,
+          "semantic_score": 6.428571428571429
+        },
+        {
+          "type": "boundary_conditions",
+          "weight": 8,
+          "total_lines": 13,
+          "covered_lines": 8,
+          "coverage_pct": 61.53846153846154,
+          "semantic_score": 4.923076923076923
+        },
+        {
+          "type": "integration_points",
+          "weight": 7,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "security_features",
+          "weight": 6,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "performance_scalability",
+          "weight": 5,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "output_consistency",
+          "weight": 4,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "configuration_environment",
+          "weight": 3,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "ui_interactions",
+          "weight": 2,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "select_symbol",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 0.0,
+      "semantic_coverage": 0.0,
+      "blocks": [
+        {
+          "type": "ui_interactions",
+          "weight": 2,
+          "total_lines": 1,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "select_position",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 0.0,
+      "semantic_coverage": 0.0,
+      "blocks": [
+        {
+          "type": "output_consistency",
+          "weight": 4,
+          "total_lines": 1,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "boundary_conditions",
+          "weight": 8,
+          "total_lines": 3,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "error_handling",
+          "weight": 9,
+          "total_lines": 2,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "play_again",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 0.0,
+      "semantic_coverage": 0.0,
+      "blocks": [
+        {
+          "type": "ui_interactions",
+          "weight": 2,
+          "total_lines": 2,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "play_tick_tac_toe",
+      "filepath": "C:\\Users\\tiago\\Projects\\Master_Degree_Files\\Foundations_for_Artificial_Intelligence\\final_project\\example_project_3\\main.py",
+      "statement_coverage": 0.0,
+      "semantic_coverage": 0.0,
+      "blocks": [
+        {
+          "type": "core_functionality",
+          "weight": 10,
+          "total_lines": 6,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "boundary_conditions",
+          "weight": 8,
+          "total_lines": 2,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "integration_points",
+          "weight": 7,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "security_features",
+          "weight": 6,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "performance_scalability",
+          "weight": 5,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "output_consistency",
+          "weight": 4,
+          "total_lines": 6,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "configuration_environment",
+          "weight": 3,
+          "total_lines": 0,
+          "covered_lines": 0,
+          "coverage_pct": 0,
+          "semantic_score": 0.0
+        },
+        {
+          "type": "ui_interactions",
+          "weight": 2,
+          "total_lines": 4,
+          "covered_lines": 0,
+          "coverage_pct": 0.0,
+          "semantic_score": 0.0
+        }
+      ]
+    }
+  ]
+}
